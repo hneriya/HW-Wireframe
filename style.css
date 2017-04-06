@@ -53,6 +53,8 @@ header{
     background-color: #777;
     clear: left;
     text-align: center;
+    padding-top: 35px;
+    padding-bottom: 35px;
 }
 
 .HHH{
@@ -83,17 +85,3 @@ footer{
     clear: both;
     text-align: center;
 }
-
-
-/*background color: grey;
-	padding
-	margin-bottom
-	width
-	height: 
-	position: fixed
-	top 
-	left
-	text-align: center
--->
-
-*/
